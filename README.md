@@ -14,10 +14,6 @@
 -->
 
 <hr>
-If you enjoy this module, consider supporting it!
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/clipplerblood)
-
 <p align="center">
   <img src=".github/images/index-cards-2.png" width=720 />
 </p>
@@ -81,10 +77,10 @@ you can adjust the window size before uploading.
 Note that in Foundry it is not possible to delete the files from the client (for sensible security reasons), so every once in a while you may want to delete your unused sketches to save a bit of storage.
 
 ## Issues and feedback
-You can report issues directly on [github](https://github.com/ClipplerBlood/sketch-tiles/issues). If you have any questions or want to propose some features, feel free to message me on discord at ClipplerBlood#8146.
+You can report issues directly on [github](https://github.com/lucky-trill/sketch-tiles/issues). If you have any questions or want to propose some features, feel free to message me on discord at ClipplerBlood#8146.
 
 ## License and acknowledgements
-See [LICENSE](https://github.com/ClipplerBlood/sketch-tiles/blob/master/LICENSE) for further info.
+See [LICENSE](https://github.com/lucky-trill/sketch-tiles/blob/master/LICENSE) for further info.
 
 Libraries used:
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand)
