@@ -6,13 +6,17 @@
     {
       "name": "ClipplerBlood",
       "discord": "ClipplerBlood#8146"
+    },
+    {
+      "name": "Trill",
+      "discord": "luckytrill"
     }
   ],
   "url": "This is auto replaced",
-  "license": "https://github.com/ClipplerBlood/sketch-tiles/blob/master/LICENSE",
-  "readme": "https://github.com/ClipplerBlood/sketch-tiles/blob/master/README.md",
-  "bugs": "https://github.com/ClipplerBlood/sketch-tiles/issues",
-  "changelog": "https://github.com/ClipplerBlood/sketch-tiles/blob/master/CHANGELOG.md",
+  "license": "https://github.com/lucky-trill/sketch-tiles/blob/master/LICENSE",
+  "readme": "https://github.com/lucky-trill/sketch-tiles/blob/master/README.md",
+  "bugs": "https://github.com/lucky-till/sketch-tiles/issues",
+  "changelog": "https://github.com/lucky-trill/sketch-tiles/blob/master/CHANGELOG.md",
   "version": "This is auto replaced",
   "compatibility": {
     "minimum": "10",
